@@ -6,8 +6,8 @@ We plan to use LLMs for content generation and add reinforcement learning techni
 
 ## Contributors
 - Alexey Tkachenko (a.tkachenko@innopolis.university)
-- Egor Poliakov (e.poliakov@innopolis.university)
-- Rodion Chekibaev (r.chekibaev@innopolis.university)
+- Egor Polyakov (e.polyakov@innopolis.university)
+- Rodion Chikibaev (r.chikibaev@innopolis.university)
 
 ---
 ## How to contribute
